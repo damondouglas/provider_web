@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:flutter_test/flutter_test.dart';
+import 'package:flutter_web_test/flutter_web_test.dart';
 
 void main() {
   test('root/package/provider/README.md and root/README.md are identical',
